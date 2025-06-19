@@ -8,4 +8,7 @@ https://github.com/st10490679/musicplaylistapp
 
 These screenshots above of the sourcecode is wwhere the user inputs details for up to 4 songs. it stores song titles,names,rating(1-5),and user comments in parallel arrays. This code also includes logic to validate inputs, add songs to playlist and naviagte to detailed view screen 
 
+![sourcecode-detailedview](https://github.com/user-attachments/assets/00f3993a-194f-4e10-936f-275d0ae02ce0)
+![sourcecode-detailedview 2](https://github.com/user-attachments/assets/b61ba03f-e16d-4ee0-ade4-67f72176c611)
+This screen above displays the full playlist of saved songs using  a loop. Each song entry includes the title,artist,rating and comment.When the "show playlist" is clicked the details are shown. The user can also press "Calculate Average" to display the average rating based on the values stored in the ratings arrays. The back button returns the user to the main input screen.
 
