@@ -6,7 +6,7 @@ https://github.com/st10490679/musicplaylistapp
 ![sourcecode-mainactivity2](https://github.com/user-attachments/assets/f9df24cb-7327-4746-805a-4dc5e1dbf184)
 ![sourcecode-mainactivity3](https://github.com/user-attachments/assets/e5336ddb-0b0c-4660-9d0e-8477aa2626a6)
 
-These screenshots above of the sourcecode is wwhere the user inputs details for up to 4 songs. it stores song titles,names,rating(1-5),and user comments in parallel arrays. This code also includes logic to validate inputs, add songs to playlist and naviagte to detailed view screen 
+These screenshots above of the sourcecode is where the user inputs details for up to 4 songs. it stores song titles,names,rating(1-5),and user comments in parallel arrays. This code also includes logic to validate inputs, add songs to playlist and naviagte to detailed view screen 
 
 ![sourcecode-detailedview](https://github.com/user-attachments/assets/00f3993a-194f-4e10-936f-275d0ae02ce0)
 ![sourcecode-detailedview 2](https://github.com/user-attachments/assets/b61ba03f-e16d-4ee0-ade4-67f72176c611)
