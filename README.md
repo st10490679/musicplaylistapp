@@ -12,3 +12,10 @@ These screenshots above of the sourcecode is wwhere the user inputs details for 
 ![sourcecode-detailedview 2](https://github.com/user-attachments/assets/b61ba03f-e16d-4ee0-ade4-67f72176c611)
 This screen above displays the full playlist of saved songs using  a loop. Each song entry includes the title,artist,rating and comment.When the "show playlist" is clicked the details are shown. The user can also press "Calculate Average" to display the average rating based on the values stored in the ratings arrays. The back button returns the user to the main input screen.
 
+Screeshots of running emulator: 
+
+![running emulator 1 ](https://github.com/user-attachments/assets/e194725a-f97b-4595-b426-010a42d8e861)
+This is the initial main screen of the app. it indicates input fields for the song title,artistname , rating and comments.There are also 3 buttons "add to playlist" to save input, "view playlist" to go to second screen and "exit" to close app
+
+![inputed data emulator ](https://github.com/user-attachments/assets/b80ce6dd-a8d8-4bb8-ae7e-885d39aa331d)
+in this screenshot the user entered all the details for a song.once the "Add to playlist" button is clicked  a toast message pops  up that says "song added", confirming a successful entry. Input fields are then cleared v
