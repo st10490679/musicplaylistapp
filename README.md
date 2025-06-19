@@ -18,4 +18,7 @@ Screeshots of running emulator:
 This is the initial main screen of the app. it indicates input fields for the song title,artistname , rating and comments.There are also 3 buttons "add to playlist" to save input, "view playlist" to go to second screen and "exit" to close app
 
 ![inputed data emulator ](https://github.com/user-attachments/assets/b80ce6dd-a8d8-4bb8-ae7e-885d39aa331d)
-in this screenshot the user entered all the details for a song.once the "Add to playlist" button is clicked  a toast message pops  up that says "song added", confirming a successful entry. Input fields are then cleared v
+in this screenshot the user entered all the details for a song.once the "Add to playlist" button is clicked  a toast message pops  up that says "song added", confirming a successful entry. Input fields are then cleared .
+
+![detailedviewscreenFINALemulator](https://github.com/user-attachments/assets/5977d73f-b0e9-4b94-9079-e423867c780b)
+this shows the playlist with the saved song . The song has all the details and its all in a scrollable view as you can add up to 4 songs.
